@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+smartmeters/
+static/
+weather/
+log/
+results/
+models/
+*.pdf
